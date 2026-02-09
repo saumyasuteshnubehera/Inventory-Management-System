@@ -31,16 +31,19 @@ It provides a centralized, easy-to-use dashboard for monitoring inventory and ma
     - Charts & Dashboards
 
 ## 📂 File Structure / Sheets Description
-## Sheet Name	                               Description
-### Dashboard	                              Visual summary of inventory, sales, and purchases
-### Customers	                              Customer details and records
-### Vendors	                                  Vendor/supplier information
-### Products	                              Product master data (ID, name, category, price, etc.)
-### New Entry	                              Form-like sheet for adding new records
-### Purchase	                              Purchase transaction details
-### Sales	                                  Sales transaction details
-### Inventory	                              Current stock levels and inventory status
-### Sheet9	                                  Supporting or intermediate calculations (if applicable)
+
+| Sheet Name | Description |
+|-----------|------------|
+| Dashboard | Visual summary of inventory, sales, and purchases |
+| Customers | Customer details and records |
+| Vendors | Vendor/supplier information |
+| Products | Product master data (ID, name, category, price, etc.) |
+| New Entry | Form-like sheet for adding new records |
+| Purchase | Purchase transaction details |
+| Sales | Sales transaction details |
+| Inventory | Current stock levels and inventory status |
+| Sheet9 | Supporting or intermediate calculations (if applicable) |
+
 
 ## 📊 Key Features
 
