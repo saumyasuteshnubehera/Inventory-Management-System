@@ -74,3 +74,13 @@ It provides a centralized, easy-to-use dashboard for monitoring inventory and ma
         - Enter transactions in Purchase and Sales sheets
 
         - View real-time updates in the Inventory and Dashboard sheets
+
+## 👨‍💻 About the Author
+
+I’m an aspiring Data Analyst / Data Scientist / Business Analyst open to opportunities in analytics and machine learning.
+
+## 💼 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/saumyasuteshnu-behera-50a478209/)
+
+## 💡 Thanks for checking out the project! Your support means a lot! Feel free to star ⭐ this repo or share it with someone learning Data Analytics.🚀
